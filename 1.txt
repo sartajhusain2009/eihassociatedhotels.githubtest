@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-<html
-</html>
-=======
->>>>>>> parent of 91a93f8... added html tag
